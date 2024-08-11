@@ -1,6 +1,5 @@
 # Welcome to My GitHub! 👋
 
-I'm a Computer Science student with a passion for exploring the depths of technology and mathematics. I enjoy working on new projects that challenge my understanding and allow me to dive into areas like Neural Networks, Virtual Machines, and higher Mathematics. My current toolbox includes languages such as Rust, Python, Java, Matlab,  Haskell, and more.
+I’m currently studying Computer Science, with a strong interest in technology and mathematics. I enjoy taking on new projects that challenge me, particularly in the areas of Neural Networks, Virtual Machines, and advanced Mathematics. My favorite tools include Rust, Python, Java, Matlab, and Haskell, but I'm always experimenting with new languages.
 
-## 🛠️ My Projects
 
