@@ -6,4 +6,4 @@ I thrive on tackling challenges in **Neural Networks** 🤖, **AI & Machine Lear
 
 
 ## Statistics 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSchwenkbeck&hide=html,css,scss&layout=compact&theme=radical&langs_count=6)       ![Trophies](https://github-profile-trophy.vercel.app/?username=JakubSchwenkbeck&theme=radical&title=-Experience,-Reviews,-Followers)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSchwenkbeck&hide=html,css,scss&layout=compact&theme=radical&langs_count=6)       ![Trophies](https://github-profile-trophy.vercel.app/?username=JakubSchwenkbeck&theme=radical&title=-Experience,-Followers)
