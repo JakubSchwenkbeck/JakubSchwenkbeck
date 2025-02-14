@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Studying <strong>Computer Science</strong> <br>
   🛠️ Working on <strong>Effekt Ξ</strong> <br>
-  🚀 Exploring <strong>Neural Networks</strong>, <strong>AI </strong> and <strong>ML</strong>
+  🚀 Exploring <strong>Compilers</strong>, <strong>AI </strong> and <strong>ML</strong>
 </p>
 <div align="center">
 
