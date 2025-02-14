@@ -1,9 +1,12 @@
-# Welcome to My GitHub! 👋
+<h1 align="center">👋 Jakub </h1>
 
-🎓 **Computer Science Student** passionate about solving complex problems through technology and mathematics.
+<p align="center">
+  🎓 Studying <strong>Computer Science</strong> <br>
+  🛠️ Working on <strong>Effekt Ξ</strong> <br>
+  🚀 Exploring <strong>Neural Networks</strong>, <strong>AI </strong> and <strong>ML</strong>
+</p>
+<div align="center">
 
-I thrive on tackling challenges in **Neural Networks** 🤖, **AI & Machine Learning** 🧠, **Server Development** 🌐, **Web Applications** 💻, **Virtual Machines** 🖥️, **Quantum Computing** 🔮, **Physics Simulations** 🌌, and **Advanced Mathematics** 📐.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSchwenkbeck&hide=css,html,scss&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Statistics 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSchwenkbeck&hide=html,css&layout=compact&theme=radical&langs_count=6)       ![Trophies](https://github-profile-trophy.vercel.app/?username=JakubSchwenkbeck&theme=radical&title=-Experience,-Followers)
+</div>
