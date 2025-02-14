@@ -1,4 +1,4 @@
-<h1 align="center">👋 Jakub </h1>
+<h2 align="center">👋 Jakub </h1>
 
 <p align="center">
   🎓 Studying <strong>Computer Science</strong> <br>
