@@ -1,9 +1,10 @@
 <h2 align="center">👋 Hi, I'm Jakub</h2>
 
+
 <p align="center">
   🎓 Computer Science student passionate about software engineering and AI. <br>
   🛠️ Building an AI assistant for the <strong>Effekt Ξ</strong> VS Code extension. <br>
-  🚀 Exploring compilers, LLMs, and autonomous agents.
+  🚀 Exploring autonomous AI agents, coding assistants, compilers, and programming languages.
 </p>
 
 <div align="center">
