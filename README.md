@@ -2,10 +2,11 @@
 
 
 <p align="center">
-  🎓 Computer Science student passionate about software engineering and AI. <br>
-  🛠️ Building an AI assistant for the <strong>Effekt Ξ</strong> VS Code extension. <br>
-  🚀 Exploring autonomous AI agents, coding assistants, compilers, and programming languages.
+  🎓 Computer Science student on exchange in Stockholm focused on <strong>Machine Learning</strong>.<br>
+  🧠 Taking courses in <strong>Data Science</strong>, <strong>Embedded ML</strong>, <strong>Explainable AI</strong>, and <strong>Quantum Computing</strong>.<br>
+  🚀 Passionate about <strong>AI agents</strong>, <strong>embedded intelligence</strong>, and the future of <strong>autonomous systems</strong>.
 </p>
+
 
 <!--
 <div align="center">
