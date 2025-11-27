@@ -4,9 +4,9 @@
 <p align="center">
   🎓 Computer Science student on exchange in Stockholm focused on <strong>Machine Learning</strong>.<br>
   🧠 Taking courses in <strong>Data Science</strong>, <strong>Embedded ML</strong>, <strong>Explainable AI</strong> and <strong>Quantum Computing</strong>.<br>
-  🚀 Passionate about <strong>machine learning</strong>, <strong>embedded intelligence</strong> and <strong>autonomous systems</strong>.
+  🚀 Research Focus on <strong>Deep Learning</strong>,  <strong>Embedded Machine Learning</strong>,  <strong>Edge/UAV Deployment</strong>
+and  <strong>Computer Vision</strong>.
 </p>
-
 
 <!--
 <div align="center">
