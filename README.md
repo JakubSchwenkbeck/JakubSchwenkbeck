@@ -1,16 +1,22 @@
 <h2 align="center">👋 Hi, I'm Jakub</h2>
 
-
 <p align="center">
-  🎓 Computer Science student on exchange in Stockholm focused on <strong>Machine Learning</strong>.<br>
-  🧠 Taking courses in <strong>Data Science</strong>, <strong>Embedded ML</strong>, <strong>Explainable AI</strong> and <strong>Quantum Computing</strong>.<br>
-  🚀 Research Focus on <strong>Deep Learning</strong>,  <strong>Embedded Machine Learning</strong>,  <strong>Edge/UAV Deployment</strong>
-and  <strong>Computer Vision</strong>.
+  🎓 Computer Science student at the <strong>University of Tübingen</strong>.<br>
+  🔬 Researching Computer Vision & Machine Learning at the <strong>Max Planck Institute for Intelligent Systems</strong>.<br>
+  💡 Building the future of research interaction at the <strong>Tübingen AI Center</strong>.<br>
 </p>
 
-<!--
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Tübingen-%23A51E37?style=flat-square&logo=education&logoColor=white" alt="Uni Tuebingen" height="24">
+  &nbsp;
+  <img src="https://img.shields.io/badge/MPI%20for%20Intelligent%20Systems-%23006C66?style=flat-square&logo=max-planck-gesellschaft&logoColor=white" alt="MPI-IS" height="24">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tübingen%20AI%20Center-%2300B4EB?style=flat-square&logo=intelligence&logoColor=white" alt="AI Center" height="24">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSchwenkbeck&hide=css,html,scss&layout=compact&bg_color=1e1e1e&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-</div>
+### 🔬 Current Research
+* **Thesis @ MPI-IS:** Viewpoint-aware Animal Identification from Drone Images.
+* **Robotics:** Generating dynamic environments for UAV perception at the *Flight Robotics and Perception Group*.
+* **AI Tools:** Improving how researchers interact with publications at the *Tübingen AI Center*.
