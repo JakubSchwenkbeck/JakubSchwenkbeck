@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Jakub</h2>
 
 <p align="center">
-  🎓 <strong>M.Sc. Machine Learning</strong> student at <strong>KTH Royal Institute of Technology</strong>.<br>
-  🔬 Former Researcher at the <strong>Max Planck Institute for Intelligent Systems (MPI-IS)</strong> & <strong>Tübingen AI Center</strong>.<br>
-  💻 Interested at the intersection of <strong>Embedded Computer Vision, Edge AI, and Autonomous Robotics</strong>.<br>
+  🎓 <strong>M.Sc. Machine Learning</strong> student & 🔬 <strong>Research Engineer</strong> @ <strong>RPL, KTH</strong> (under Prof. Hedvig Kjellström).<br>
+  🏛️ Prev: <strong>Max Planck Institute (MPI-IS)</strong>, <strong>Tübingen AI Center</strong> & <strong>Amazon Future Engineer</strong>.<br>
+  💻 Focused on <strong>Computer Vision, Robot Perception, VLMs & Embodied AI</strong>.<br>
 </p>
